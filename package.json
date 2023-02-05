@@ -1,0 +1,26 @@
+{
+  "name": "valorant-xp",
+  "version": "1.0.0",
+  "description": "Shows valorant data and stats!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Enlighted",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.5",
+    "canvas": "^2.6.1",
+    "dayjs": "^1.10.7",
+    "discord.js": "^13.7.0",
+    "fs": "0.0.1-security",
+    "googleapis": "^100.0.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "mongoose": "^6.0.10",
+    "ms": "^2.1.3",
+    "node-cron": "^3.0.0",
+    "node-fetch": "^2.6.1",
+    "time-convert": "0.0.2"
+  }
+}
